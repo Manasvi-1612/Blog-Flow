@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/user": "pages/user.js",
+  "/signin": "pages/signin.js",
+  "/user/crud/blog": "pages/user/crud/blog.js",
+  "/blogs": "pages/blogs.js",
+  "/contact": "pages/contact.js"
+}

@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"..\\\\components\\\\crud\\\\BlogCreate.js -> react-quill\":{\"id\":\"..\\\\components\\\\crud\\\\BlogCreate.js -> react-quill\",\"files\":[\"static/chunks/node_modules_react-quill_lib_index_js.js\"]}}"
